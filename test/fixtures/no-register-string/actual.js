@@ -1,0 +1,1 @@
+globalString.Checkin
